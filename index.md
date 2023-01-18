@@ -39,7 +39,7 @@ In conclusion, the ongoing wars in Palestine and other parts of the world have h
 Contact Information: 
 - [LinkedIn](https://www.linkedin.com/in/ayah-al-muqbel-5761851b3/)
 - ayah.almuqbel@gmail.com
-- [GitHub Repositories](https://github.com/2200272)
+- [GitHub Repositories](https://github.com/2200272/CS220AU-DP-2022)
 
 ## References
 - Petras, J. F. (2007). [The Power of Israel in the United States](https://books.google.ae/books?hl=en&lr=&id=-ZBjLAuzzUMC&oi=fnd&pg=PT10&dq=israel+military+power&ots=hkR2yfMQWP&sig=wSxpaMh6RUEH4sIDN9ON9Ca2ffM&redir_esc=y#v=onepage&q&f=false). Clarity Press. Retrieved January 18, 2023.
