@@ -22,7 +22,7 @@ In Palestine, the effects of climate change are exacerbated by the ongoing war a
 
 According to Petras (2006), The United States has historically provided significant financial and military support to Israel, which has been used to attack  Palestine and the Gaza strip with bombs and missiles that resulted in a massive number of people being killed and a high amount of fossil fuel burnt. Contradictorily, the United States Environmental Protection Agency (EPA) whose mission is to protect human health and the environment is working towards reducing emissions globally.  
 
-Palestine today is still being bombed, the Sheikh Jarrah incident refers to the use of advanced weapons to forcibly evacuate the homes of the Palestinian families in the Sheikh Jarrah neighbourhood of East Jerusalem. The evictions have been met with widespread protests and international condemnation, with many accusing Israel of violating international law and committing human rights crimes. The number of people killed during the incident is () which was the result of many bombs Israel dropped all over Palestine's cities.
+Palestine today is still being bombed, the Sheikh Jarrah incident refers to the use of advanced weapons to forcibly evacuate the homes of the Palestinian families in the Sheikh Jarrah neighbourhood of East Jerusalem. The evictions have been met with widespread protests and international condemnation, with many accusing Israel of violating international law and committing human rights crimes. Israel dropped bombs all over Palestine's cities during the Sheikh Jarrah incident (
 
 Detecting a specific reason behind the fewer media attention on the effect of wars on climate change can be difficult and complicated. some possible reasons might be because of the significant amount of media coverage of Wars, and as a result, less attention is given to the effects of these wars on climate change. However, political hidden agenda should be considered as a possible reason because some governments and political groups may not want to draw attention to the environmental impact of wars, as it may reflect poorly on their actions or policies. 
 
@@ -42,6 +42,5 @@ Contact Information:
 ## References
 - Petras, J. F. (2007). [The Power of Israel in the United States](https://books.google.ae/books?hl=en&lr=&id=-ZBjLAuzzUMC&oi=fnd&pg=PT10&dq=israel+military+power&ots=hkR2yfMQWP&sig=wSxpaMh6RUEH4sIDN9ON9Ca2ffM&redir_esc=y#v=onepage&q&f=false). Clarity Press. 
 - Environmental Protection Agency. (n.d.). [What EPA Is Doing About Climate Change]( https://www.epa.gov/climate-change/what-epa-doing-about-climate-change ). EPA. Retrieved January 18, 2023.
-- Petras, Fredrick, 2006 _[The title of this paper](http://source.com)_. Publisher.
-
-
+- Saqr, G. M. I. (2021, July 1). [Newspaper coverage of the issue of al-Sheikh Al-Jarrah neighborhood in Jerusalem]( https://joa.journals.ekb.eg/article_198137.html?lang=en 
+). Egyptian Journal of Public Opinion Research. Retrieved January 18, 2023. 
