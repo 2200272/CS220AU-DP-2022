@@ -37,10 +37,11 @@ In conclusion, the ongoing wars in Palestine and other parts of the world have h
 Contact Information: 
 - [LinkedIn](https://www.linkedin.com/in/ayah-al-muqbel-5761851b3/)
 - ayah.almuqbel@gmail.com
+- [GitHub Repositories(https://github.com/2200272)
 
 ## References
 - Petras, J. F. (2007). [The Power of Israel in the United States](https://books.google.ae/books?hl=en&lr=&id=-ZBjLAuzzUMC&oi=fnd&pg=PT10&dq=israel+military+power&ots=hkR2yfMQWP&sig=wSxpaMh6RUEH4sIDN9ON9Ca2ffM&redir_esc=y#v=onepage&q&f=false). Clarity Press. 
-- Environmental Protection Agency. (n.d.). [What EPA Is Doing About Climate Change]( https://www.epa.gov/climate-change/what-epa-doing-about-climate-change ). EPA. Retrieved January 18, 2023, 
+- Environmental Protection Agency. (n.d.). [What EPA Is Doing About Climate Change]( https://www.epa.gov/climate-change/what-epa-doing-about-climate-change ). EPA. Retrieved January 18, 2023.
 - Petras, Fredrick, 2006 _[The title of this paper](http://source.com)_. Publisher.
 
 
