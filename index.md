@@ -36,7 +36,7 @@ In conclusion, the ongoing wars in Palestine and other parts of the world have h
 
 Contact Information: 
 - [LinkedIn](https://www.linkedin.com/in/ayah-al-muqbel-5761851b3/)
-- Mail: ayah.almuqbel@gmail.com
+- ayah.almuqbel@gmail.com
 
 ## References
 - Petras, Fredrick, 2006 _[The title of this paper](http://source.com)_. Publisher.
