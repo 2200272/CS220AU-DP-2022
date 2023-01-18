@@ -4,7 +4,7 @@
 
 Climate change is a pressing global issue that has been receiving increasing media coverage in recent years. Media platforms are providing conflicting perspectives on the issue of climate change. Journalists and news outlets are reporting on what might seem to be a significant cause of climate change such as consumer behaviour. Indeed, the media is marginalizing the influence of other important causes. For instance, military activities and weapons such as bombs and missiles. The effects of climate change can be seen in various regions around the world, the issue is particularly relevant in regions that are already prone to war and military attacks. One such region is Palestine, where ongoing Israel’s invasion of Palestine has had a significant impact on the environment and climate. For example, Israel’s military practices include air forces and missiles attacking Palestine with huge numbers of weapons and bombs used.
 
-The video below is demonstrating an interview with an 86-year-old man who lived during the Israel’s attack on Palestine to take over it, which has lasted for 75 years since 1948 until today. He witnessed different severe situations of the war which ended with the foundation of Israel and the Nakba of 1948 which means the incident of killing and displacing Palestinians from their homes. The second interviewee is a chemical engineer and an environmental advocate who provided insightful knowledge about the climate change scientific causes and her perspective on media coverage of the issue.
+The video below is demonstrating an interview with an 86-year-old man who lived during the Israel’s attack on Palestine to take over it, which has lasted for 75 years since 1948 until today (. He witnessed different severe situations of the war which ended with the foundation of Israel and the Nakba of 1948 which means the incident of killing and displacing Palestinians from their homes. The second interviewee is a chemical engineer and an environmental advocate who provided insightful knowledge about the climate change scientific causes and her perspective on media coverage of the issue.
 
 *Please enable subtitles.*
 
@@ -39,8 +39,8 @@ Contact Information:
 - ayah.almuqbel@gmail.com
 
 ## References
-- Petras, Fredrick, 2006 _[The title of this paper](http://source.com)_. Publisher.
-- Petras, Fredrick, 2006 _[The title of this paper](http://source.com)_. Publisher.
+- Petras, J. F. (2007). [The Power of Israel in the United States](https://books.google.ae/books?hl=en&lr=&id=-ZBjLAuzzUMC&oi=fnd&pg=PT10&dq=israel+military+power&ots=hkR2yfMQWP&sig=wSxpaMh6RUEH4sIDN9ON9Ca2ffM&redir_esc=y#v=onepage&q&f=false). Clarity Press. 
+- Environmental Protection Agency. (n.d.). [What EPA Is Doing About Climate Change]( https://www.epa.gov/climate-change/what-epa-doing-about-climate-change ). EPA. Retrieved January 18, 2023, 
 - Petras, Fredrick, 2006 _[The title of this paper](http://source.com)_. Publisher.
 
 
