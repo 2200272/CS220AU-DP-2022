@@ -11,6 +11,7 @@ The video below is demonstrating an interview with an 86-year-old man who lived 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmCp1sazOp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Deeper lens to the topic**
+
 The war in Palestine has led to the displacement of many residents, who are forced to flee their homes and communities as a result of the attacks. In the video a case study interview was conducted with Ibrahim Al-Muqbel, providing a first-hand experience of living under attacks of bombs and weapons. Where the consumer himself was at a life-threatening event. He spoke of the emotional trauma he experienced as he was forced to leave behind his home, possessions and community.
 
 The chemical engineer, Dana Al-Muqbel, mentioned that 6% of climate change is caused by military weapons and bombs (Inventory of U.S. Greenhouse Gas Emissions and Sinks, 2022). This is considered a high percentage, yet the media is marginalizing the influence and focuses on other causes related to consumer behaviour. Military activities also deplete the ozone layer by introducing nitrogen oxides (NOx) into the stratosphere — an estimated 30% by weight are released by each operational aircraft, missile or rocket launch (Sharon et al., 2008).
