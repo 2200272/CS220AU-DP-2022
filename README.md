@@ -12,14 +12,14 @@ This GitHub repository is the template for the [CS220AU](https://github.com/khof
 ## Portfolio items
 The portfolio contains:
 
-1. **Website**: The tools and methods used in the production of the video are listed below:
+1. **Website**: The tools and techniques used in the production of the video are listed below:
 
 - Iphone 13 "Cinematic" feature for filming the interviews
 - Adobe Premier Pro and iMovie for video editing
-- online footage from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/videos/)
-- voice recorded using BOYA lavalier microphone
+- Online footage from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/videos/)
+- Voice recorded using BOYA lavalier microphone
 
-The website showcases how wars and bombs are affecting climate change while presenting a case study of Palestine's war. It shows a survey conducted in University of Essex about to represent the public opinion of the topic. The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
+The website showcases how media is marginalizing the effect of wars and bombs on climate change while presenting a case study of Palestine's war. It shows a survey conducted in University of Essex about to represent the public opinion of the topic. The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
 2. **Self-and peer-assessment** using the marking rubric in the `assessment.md` file.
 3. **Portfolio overview** providing a succinct overview of the portfolio and an outline of completed tasks (Log) and in this `README.md` file.
