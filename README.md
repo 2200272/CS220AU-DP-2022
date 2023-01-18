@@ -29,7 +29,7 @@ The website showcases how media is marginalizing the effect of wars and bombs on
 ## Log 
 - 2022-10-10 Introduction to the website (Github) and understanding the module material and assessments.
 - 2202-10-11 Introduction to the digital identities and existinsial risks.
-- 2022-10-18 Registered in Github, read the README file.
+- 2022-10-18 Registered in Github, read the READ.ME file.
 - 2022-10-22 Changed profile picture.
 - 2022-10-25 Managed to edit the account type since it was not created in the right format, and watched YouTube video.
 - 2022-10-27 Decided the type of content that will be included in the portfolio.
@@ -46,14 +46,15 @@ The website showcases how media is marginalizing the effect of wars and bombs on
 - 2022-12-11 Continued researching about the topic and collecting informtion.
 - 2022-12-16 Finalized the results of the survey.
 - 2022-12-22 Made slight changes in the interview questions.
-- 2023-01-03 Interviewd the chemical engineer.
+- 2023-01-03 Interviewd a chemical engineer.
 - 2023-01-06 Worked on the post-production process for couple of days.
-- 2023-01-10 Edited the old man's interview and added berolls to the video.
-- 2023-01-11 I worked on improving the voice of the interview because the microphone did not work for many parts of the interview unfortunately. 
-- 2023-01-12 
-- 2023-01-14
-- 2023-01-15
-- 2023-01-16
-- 2023-01-17
-- 2023-01-18
-- 2023-01-19
+- 2023-01-10 Edited the old man's interview and added B-rolls to the video.
+- 2023-01-11 Worked on improving the voice of the interview because the microphone did not work for many parts of the interview unfortunately. 
+- 2023-01-12 Gathered more online footage.
+- 2023-01-13 Academic research and collecting information. 
+- 2023-01-14 Recorded the voiceover and edited the footage in a way that matches the voiceover.  
+- 2023-01-15 Academic research and collecting information, made edits on the Read.me file and added music to the video.
+- 2023-01-16 Had some technical issues with Adobe Premiere Pro where I lost some of the edits I made but I managed to do it again in short period of time. 
+- 2023-01-17 Academic research and collecting information and translated the video.
+- 2023-01-18 Academic research and collecting information and reviewed everything.
+- 2023-01-19 Editing the small details in the Index and Readme files.
