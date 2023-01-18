@@ -10,7 +10,7 @@ The video below is demonstrating an interview with an 86-year-old man who lived 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmCp1sazOp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Deeper insight into the topic:**
+**Analysis:**
 
 Environmental awareness is certainly an important topic. But while we do have to care about our environment, surely environment advocates can also be accused of being more concerned with saving the planet than saving lives. We must ask ourselves why we are bombarded with having an environmental-friendly life when missiles and bombs are killing people and destroying the Ozone layer that protects our planet. Despite the significant impact of the war on the environment and climate in Palestine, media coverage of this issue has been relatively limited. Many mainstream media outlets have focused on consumer behaviour, rather than the impact of bombs and weapons of the attacker on the environment and climate. This lack of coverage has made it difficult for the international community to fully understand the severity of the problem and to take action to address it.
 
