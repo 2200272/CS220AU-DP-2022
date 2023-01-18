@@ -1,5 +1,5 @@
 
-# Media coverage of climate change and how wars impact it
+# Media Coverage of Climate Change and How Wars Impact it
 ## Case study of Palestine's war
 
 Climate change is a pressing global issue that has been receiving increasing media coverage in recent years. Media platforms are providing conflicting perspectives on the issue of climate change. Journalists and news outlets are reporting on what might seem to be a significant cause of climate change such as consumer behaviour. Indeed, the media is marginalizing the influence of other important causes. For instance, military activities and weapons such as bombs and missiles. The effects of climate change can be seen in various regions around the world, the issue is particularly relevant in regions that are already prone to war and military attacks. One such region is Palestine, where ongoing Israel’s invasion of Palestine has had a significant impact on the environment and climate. For example, Israel’s military practices include air forces and missiles attacking Palestine with huge numbers of weapons and bombs used.
