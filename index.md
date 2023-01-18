@@ -42,10 +42,10 @@ Contact Information:
 - [GitHub Repositories](https://github.com/2200272)
 
 ## References
-- Petras, J. F. (2007). [The Power of Israel in the United States](https://books.google.ae/books?hl=en&lr=&id=-ZBjLAuzzUMC&oi=fnd&pg=PT10&dq=israel+military+power&ots=hkR2yfMQWP&sig=wSxpaMh6RUEH4sIDN9ON9Ca2ffM&redir_esc=y#v=onepage&q&f=false). Clarity Press. 
+- Petras, J. F. (2007). [The Power of Israel in the United States](https://books.google.ae/books?hl=en&lr=&id=-ZBjLAuzzUMC&oi=fnd&pg=PT10&dq=israel+military+power&ots=hkR2yfMQWP&sig=wSxpaMh6RUEH4sIDN9ON9Ca2ffM&redir_esc=y#v=onepage&q&f=false). Clarity Press. Retrieved January 18, 2023.
 - Environmental Protection Agency. (n.d.). [What EPA Is Doing About Climate Change](https://www.epa.gov/climate-change/what-epa-doing-about-climate-change). EPA. Retrieved January 18, 2023.
 - Saqr, G. M. I. (2021, July 1). [Newspaper coverage of the issue of al-Sheikh Al-Jarrah neighborhood in Jerusalem](https://joa.journals.ekb.eg/article_198137.html?lang=en). Egyptian Journal of Public Opinion Research. Retrieved January 18, 2023. 
-- Portmann, R. W., Daniel, J. S., &amp; Ravishankara, A. R. (2012, May 5). [Stratospheric ozone depletion due to nitrous oxide: Influences of other gases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3306630/). Series B, Biological sciences. Retrieved January 18, 2023.
-- Ritchie, H., Roser, M., &amp; Rosado, P. (2020, May 11). Israel: [CO2 country profile](https://ourworldindata.org/co2/country/israel) Our World in Data. Retrieved January 18, 2023.
+- Portmann, R. W., Daniel, J. S., & Ravishankara, A. R. (2012, May 5). [Stratospheric ozone depletion due to nitrous oxide: Influences of other gases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3306630/). Series B, Biological sciences. Retrieved January 18, 2023.
+- Ritchie, H., Roser, M., & Rosado, P. (2020, May 11). Israel: [CO2 country profile](https://ourworldindata.org/co2/country/israel) Our World in Data. Retrieved January 18, 2023.
 - Buxbaum, J. (2022, February 7). [How Israel's occupation of Palestine intensifies climate change](https://mronline.org/2022/02/06/how-israels-occupation-of-palestine-intensifies-climate-change/) MR Online. Retrieved January 18, 2023. 
-- C N Trueman. (26 May 2015). [Palestine 1918 To 1948](https://www.historylearningsite.co.uk/modern-world-history-1918-to-1980/the-middle-east-1917-to-1973/palestine-1918-to-1948/) .The History Learning Site. Retrieved January 18, 2023
+- C N Trueman. (26 May 2015). [Palestine 1918 To 1948](https://www.historylearningsite.co.uk/modern-world-history-1918-to-1980/the-middle-east-1917-to-1973/palestine-1918-to-1948/). The History Learning Site. Retrieved January 18, 2023.
