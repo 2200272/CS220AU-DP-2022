@@ -69,7 +69,7 @@ To help measure my progress, I asked another student in my group for feedback on
 | 3.1 |     |     |     |     |  o  |
 
 
-Feedback given by: Hannah / 2200082
+Feedback given by: 2200082
 
 
 <br>
