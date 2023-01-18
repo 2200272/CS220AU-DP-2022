@@ -26,28 +26,28 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log 
-- 2022-10-10 introduction to the website (Github) and understanding the module material and assessments.
-- 2202-10-11 introduction to the digital identities and existinsial risks.
-- 2022-10-18 registered in Github, read the README file.
-- 2022-10-22 changed profile picture.
-- 2022-10-25 managed to edit the account type since it was not created in the right format, and watched YouTube video.
-- 2022-10-27 decided the type of content that will be included in the portfolio.
-- 2022-11-02 decided the target audience of intervieews.
-- 2202-11-06 research about the topic.
-- 2022-11-06 came up with a research Qeustion.
-- 2022-11-07 found resources and studies to strengthen the argument.
+- 2022-10-10 Introduction to the website (Github) and understanding the module material and assessments.
+- 2202-10-11 Introduction to the digital identities and existinsial risks.
+- 2022-10-18 Registered in Github, read the README file.
+- 2022-10-22 Changed profile picture.
+- 2022-10-25 Managed to edit the account type since it was not created in the right format, and watched YouTube video.
+- 2022-10-27 Decided the type of content that will be included in the portfolio.
+- 2022-11-02 Decided the target audience of intervieews.
+- 2202-11-06 Research about the topic.
+- 2022-11-06 Came up with a research Qeustion.
+- 2022-11-07 Found resources and studies to strengthen the argument.
 - 2022-11-15 Finalized the survey and interview questions I will be asking.
 - 2022-11-22 Interviewed students and recorded their answers.
 - 2022-11-25 Collected footage related to the introduction of the video.
 - 2022-11-28 Got a microphone.
 - 2022-12-02 Started editing the online footage.
-- 2022-12-11 wrote the script for the voiceover.
-- 2022-12-11 continued researching about the topic and collecting informtion.
-- 2022-12-16 Finalized the results of the survey
-- 2022-12-22 Made slight changes in the interview questions
-- 2023-01-03 Interviewd the chemical engineer
-- 2023-01-06 worked on the post-production process for couple of days (cleaning the videos)
-- 2023-01-10 edited the old man's interview and added berolls to the video
+- 2022-12-11 Wrote the script for the voiceover.
+- 2022-12-11 Continued researching about the topic and collecting informtion.
+- 2022-12-16 Finalized the results of the survey.
+- 2022-12-22 Made slight changes in the interview questions.
+- 2023-01-03 Interviewd the chemical engineer.
+- 2023-01-06 Worked on the post-production process for couple of days.
+- 2023-01-10 Edited the old man's interview and added berolls to the video.
 - 2023-01-11 I worked on improving the voice of the interview because the microphone did not work for many parts of the interview unfortunately. 
 - 2023-01-12 
 - 2023-01-14
