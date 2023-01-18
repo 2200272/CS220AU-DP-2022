@@ -39,7 +39,7 @@ After doing interviews with 13 students at the University of Essex in the UK. I 
 
 In conclusion, the ongoing wars in Palestine and other parts of the world have had a significant impact on the environment and climate globally. The use of military weapons has caused widespread destruction of the natural environment. However, the issue has received extremely limited media coverage, making it difficult for the international community to fully understand the extent of the problem and to take action to address it.
 
-Contact Information: 
+**Contact Information:**
 - [LinkedIn](https://www.linkedin.com/in/ayah-al-muqbel-5761851b3/)
 - ayah.almuqbel@gmail.com
 - [GitHub Repository URL](https://github.com/2200272/CS220AU-DP-2022)
